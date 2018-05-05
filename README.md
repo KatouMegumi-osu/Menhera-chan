@@ -10,7 +10,7 @@ waifu2x fork
 可爱的 メンヘラちゃん
 
 
-![Menhera-chan w2x.mp4](Menhera-chan w2x.mp4)
+![Menhera-chan.gif](Menhera-chan.gif)
 
 ##### 这张GIF 图来源：
 https://tieba.baidu.com/p/5635044124
